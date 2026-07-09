@@ -5,21 +5,13 @@ Welcome to my internship repository! This repository contains the assignments an
 The internship focuses on learning the fundamentals of Artificial Intelligence through hands-on coding, interactive applications, and real-world AI concepts.
 
 📚 Repository Structure
-mirai-ai-summer-internship-2026/
-│
-├── Assignment-01-The-Identity-Echo/
-├── Assignment-02/
-├── Assignment-03/
-├── Assignment-04/
-├── Assignment-05/
-└── Final-Project/
 
+Each assignment is organized in its own folder and contains:
 
-Each assignment folder may include:
-- Python source code
-- Project documentation
-- Screenshots (where applicable)
-- Required dependencies
+- Source Code
+- Assignment-specific README
+- Screenshots
+- Dependencies (if required)
 
 
 📋 Assignment Progress
