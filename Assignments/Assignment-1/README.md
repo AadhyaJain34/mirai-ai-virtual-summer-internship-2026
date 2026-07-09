@@ -4,6 +4,7 @@ Welcome to my internship repository! This repository contains the assignments an
 
 The internship focuses on learning the fundamentals of Artificial Intelligence through hands-on coding, interactive applications, and real-world AI concepts.
 
+
 📂 Repository Structure
 
 Each assignment folder may include:
@@ -11,6 +12,7 @@ Each assignment folder may include:
 - Project documentation
 - Screenshots (where applicable)
 - Required dependencies
+
 
 📋 Assignment Progress
 
@@ -23,12 +25,14 @@ Each assignment folder may include:
 | 05 | Upcoming Assignment | ⏳ Pending |
 | Final Project | AI Builder Project | ⏳ Pending |
 
+
 💻 Tools & Technologies
 
 - Python
 - Streamlit
 - Git & GitHub
 - Google Gemini API
+
 
 📖 Topics Covered
 
@@ -43,6 +47,7 @@ Throughout this internship, I am learning and working on:
 - Cloud Computing Basics
 - Streamlit Application Development
 - Building AI-powered Projects
+
 
 🎯 Purpose of this Repository
 
