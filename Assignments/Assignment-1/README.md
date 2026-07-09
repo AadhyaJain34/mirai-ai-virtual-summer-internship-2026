@@ -6,16 +6,6 @@ The internship focuses on learning the fundamentals of Artificial Intelligence t
 
 📂 Repository Structure
 
-mirai-ai-builder-internship/
-│
-├── Assignment-01-The-Identity-Echo-Interface/
-├── Assignment-02/
-├── Assignment-03/
-├── Assignment-04/
-├── Assignment-05/
-└── Final-Project/
-
-
 Each assignment folder may include:
 - Python source code
 - Project documentation
