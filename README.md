@@ -4,12 +4,10 @@ Welcome to my internship repository! This repository contains the assignments an
 
 The internship focuses on learning the fundamentals of Artificial Intelligence through hands-on coding, interactive applications, and real-world AI concepts.
 
-
 📚 Repository Structure
-
-mirai-ai-builder-internship/
+mirai-ai-summer-internship-2026/
 │
-├── Assignment-01-The-Identity-Echo-Interface/
+├── Assignment-01-The-Identity-Echo/
 ├── Assignment-02/
 ├── Assignment-03/
 ├── Assignment-04/
