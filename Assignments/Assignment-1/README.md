@@ -1,56 +1,81 @@
-🌟 MirAI School of Technology – AI Builder Internship 2026
+# Assignment 1 - The Identity Echo Interface
 
-Welcome to my internship repository! This repository contains the assignments and projects I complete during the **MirAI School of Technology – Virtual Summer Internship 2026 (AI Builder Track)**.
+## Objective
 
-The internship focuses on learning the fundamentals of Artificial Intelligence through hands-on coding, interactive applications, and real-world AI concepts.
+Build an interactive Streamlit application that:
 
+- Collects a user's name
+- Collects a message
+- Validates user input
+- Displays a personalized response
+- Estimates AI token usage
 
-📂 Repository Structure
+---
 
-Each assignment folder may include:
-- Python source code
-- Project documentation
-- Screenshots (where applicable)
-- Required dependencies
+## Features
 
+- ✅ User Name Input
+- ✅ Message Input
+- ✅ Input Validation
+- ✅ Success & Error Messages
+- ✅ Token Cost Estimator
+- ✅ Clean Streamlit Interface
 
-📋 Assignment Progress
+---
 
-| Assignment | Project | Status |
-|------------|---------|--------|
-| 01 | The Identity Echo Interface | ✅ Completed |
-| 02 | Upcoming Assignment | ⏳ In Progress |
-| 03 | Upcoming Assignment | ⏳ Pending |
-| 04 | Upcoming Assignment | ⏳ Pending |
-| 05 | Upcoming Assignment | ⏳ Pending |
-| Final Project | AI Builder Project | ⏳ Pending |
-
-
-💻 Tools & Technologies
+## Technologies Used
 
 - Python
 - Streamlit
-- Git & GitHub
-- Google Gemini API
+
+---
+
+## Project Structure
+
+```text
+assignment1/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── screenshots/
+```
+
+---
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+Displays the initial interface where users can enter their name and message before submitting.
+
+<img width="1822" height="1184" alt="home (1)" src="https://github.com/user-attachments/assets/a2a1438b-dc9c-402e-bd78-5aea114988e1" />
 
 
-📖 Topics Covered
+---
 
-Throughout this internship, I am learning and working on:
+### ✅ Successful Transmission
 
-- Artificial Intelligence Fundamentals
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Tokens and Context Windows
-- AI APIs
-- Retrieval-Augmented Generation (RAG)
-- Cloud Computing Basics
-- Streamlit Application Development
-- Building AI-powered Projects
+Shows the personalized success message along with the estimated AI token consumption after a valid submission.
+
+<img width="1822" height="1184" alt="success" src="https://github.com/user-attachments/assets/0b6727f6-47ec-4fd4-a4ac-2e76fc0958a3" />
 
 
-🎯 Purpose of this Repository
+---
 
-This repository showcases my learning journey throughout the MirAI AI Builder Internship. It serves as a collection of my assignments, projects, and practical implementations while exploring modern AI technologies and application development.
 
-I will continue updating this repository as I complete new assignments and the final project.
+## Concepts Covered
+
+- Streamlit UI
+- User Input
+- Conditional Statements
+- f-Strings
+- Token Estimation
+- Basic AI Concepts
