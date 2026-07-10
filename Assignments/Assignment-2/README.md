@@ -57,13 +57,14 @@ streamlit run app.py
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+<img width="1822" height="1184" alt="home" src="https://github.com/user-attachments/assets/a3d965a5-71b9-45ef-8186-2a4f668184d5" />
+
 
 ---
 
 ### Conversation Example
+<img width="1822" height="1184" alt="chat" src="https://github.com/user-attachments/assets/fef47361-b02e-44be-86af-f41c2b1411bc" />
 
-![Conversation](screenshots/chat.png)
 
 ---
 
