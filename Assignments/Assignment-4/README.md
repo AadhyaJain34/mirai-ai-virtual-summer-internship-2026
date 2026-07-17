@@ -203,10 +203,10 @@ Generates images using randomly selected creative prompts.
 
 ## 👨‍💻 Author
 
-**Saravanan S**
+**Aadhya Jain**
 
 LinkedIn:
-https://www.linkedin.com/in/saravanan2311
+https://www.linkedin.com/in/aadhya-jain-870a5531b/
 
 ---
 
